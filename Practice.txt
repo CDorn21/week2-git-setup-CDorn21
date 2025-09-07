@@ -1,1 +1,2 @@
 Week 2 Setup completed by Colton
+Editing this file to practice another commit.
